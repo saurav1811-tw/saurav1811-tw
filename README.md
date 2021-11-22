@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurav1811-tw
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, Java, GoLang
-- 💞️ I’m looking to collaborate on Jenkins, Ansible
+- 🌱 I’m currently learning Python, Java, GoLang, Shell, JavaScript and many more
+- 💞️ I’m looking to collaborate on Jenkins, Ansible, GoCD and other DevOps Systems
 - 📫 How to reach me 9790521897
 
 <!---
